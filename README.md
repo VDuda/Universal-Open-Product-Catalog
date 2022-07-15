@@ -59,3 +59,5 @@ yarn test
 4. Enable Git Gateway.
 
 _Note: You'll need to specify the Netlify URL when browsing the admin page locally._
+
+https://universal-open-product-catalog.netlify.app/ 
